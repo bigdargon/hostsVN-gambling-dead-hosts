@@ -6,16 +6,18 @@
     "finish_timestamp": 1667539499.928718,
     "last_download_datetime": "2020-12-29T19:32:02.781245",
     "last_download_timestamp": 1609270322.781245,
-    "latest_part_finish_datetime": "2022-12-01T18:03:08.247730",
-    "latest_part_finish_timestamp": 1669917788.24773,
+    "latest_part_finish_datetime": "2022-12-01T18:24:04.805972",
+    "latest_part_finish_timestamp": 1669919044.805972,
     "latest_part_start_datetime": "2020-12-29T19:32:02.781245",
     "latest_part_start_timestamp": 1609270322.781245,
     "live_update": true,
-    "name": "hostsVN-gambling-dead-hosts",
+    "name": "",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts",
-    "repo": "hostsVN-gambling-dead-hosts/hostsVN-gambling-dead-hosts",
+    "repo": [
+        "/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@github.com/bigdargon/hostsVN-gambling-dead-hosts/"
+    ],
     "start_datetime": "2020-12-29T19:32:02.781245",
     "start_timestamp": 1609270322.781245
 }
