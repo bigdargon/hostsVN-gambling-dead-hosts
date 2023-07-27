@@ -17831,3 +17831,6 @@ idna_subject,checker_type,destination,source,tested_at,session_id
 20070001.com,AVAILABILITY,origin.list,origin.list,2023-07-26 10:08:54.952225,0bf72d17538b4d1081236edb
 20070003.com,AVAILABILITY,origin.list,origin.list,2023-07-26 10:08:55.077686,0bf72d17538b4d1081236edb
 20070005.com,AVAILABILITY,origin.list,origin.list,2023-07-26 10:08:55.150274,0bf72d17538b4d1081236edb
+2007.cm,AVAILABILITY,origin.list,origin.list,2023-07-27 00:34:15.888275,0bf72d17538b4d1081236edb
+20070011.com,AVAILABILITY,origin.list,origin.list,2023-07-27 00:34:15.885750,0bf72d17538b4d1081236edb
+20070006.com,AVAILABILITY,origin.list,origin.list,2023-07-27 00:34:16.010931,0bf72d17538b4d1081236edb
