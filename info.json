@@ -17,9 +17,9 @@
     "platform_container_id": null,
     "platform_container_name": "hostsvn-gambling-dead-hosts",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
-    "platform_optout": true,
+    "platform_optout": false,
     "platform_remote_source_id": null,
-    "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/gambling00",
+    "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts",
     "repo": "bigdargon/hostsVN-gambling-dead-hosts",
     "start_datetime": "2020-12-29T19:32:02.781245",
     "start_timestamp": 1609270322.781245
