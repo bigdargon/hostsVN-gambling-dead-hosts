@@ -1,0 +1,26 @@
+{
+    "counter": {
+        "Domain International Services Limited": 8,
+        "Dynadot Inc": 20,
+        "Dynadot LLC": 2,
+        "Gname.com Pte. Ltd.": 4,
+        "Go Australia Domains Inc": 4,
+        "Go Canada Domains Inc": 2,
+        "NameSilo, LLC": 2,
+        "Spaceship, Inc.": 2,
+        "West263 International Limited": 4,
+        "total": 48
+    },
+    "percentage": {
+        "Domain International Services Limited": 16.666666666666668,
+        "Dynadot Inc": 41.666666666666664,
+        "Dynadot LLC": 4.166666666666667,
+        "Gname.com Pte. Ltd.": 8.333333333333334,
+        "Go Australia Domains Inc": 8.333333333333334,
+        "Go Canada Domains Inc": 4.166666666666667,
+        "NameSilo, LLC": 4.166666666666667,
+        "Spaceship, Inc.": 4.166666666666667,
+        "West263 International Limited": 8.333333333333334,
+        "total": 100.0
+    }
+}
