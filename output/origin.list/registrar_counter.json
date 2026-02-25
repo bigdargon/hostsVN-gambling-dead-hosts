@@ -2,8 +2,8 @@
     "counter": {
         "Communigal Communications Ltd": 2,
         "Domain International Services Limited": 12,
-        "Dynadot Inc": 26,
-        "Dynadot LLC": 4,
+        "Dynadot Inc": 28,
+        "Dynadot LLC": 6,
         "Gname.com Pte. Ltd.": 4,
         "Go Australia Domains Inc": 4,
         "Go Canada Domains Inc": 2,
@@ -12,21 +12,21 @@
         "Namecheap": 4,
         "Spaceship, Inc.": 4,
         "West263 International Limited": 4,
-        "total": 70
+        "total": 74
     },
     "percentage": {
-        "Communigal Communications Ltd": 2.857142857142857,
-        "Domain International Services Limited": 17.142857142857142,
-        "Dynadot Inc": 37.142857142857146,
-        "Dynadot LLC": 5.714285714285714,
-        "Gname.com Pte. Ltd.": 5.714285714285714,
-        "Go Australia Domains Inc": 5.714285714285714,
-        "Go Canada Domains Inc": 2.857142857142857,
-        "Go Daddy, LLC": 2.857142857142857,
-        "NameSilo, LLC": 2.857142857142857,
-        "Namecheap": 5.714285714285714,
-        "Spaceship, Inc.": 5.714285714285714,
-        "West263 International Limited": 5.714285714285714,
+        "Communigal Communications Ltd": 2.7027027027027026,
+        "Domain International Services Limited": 16.216216216216218,
+        "Dynadot Inc": 37.83783783783784,
+        "Dynadot LLC": 8.108108108108109,
+        "Gname.com Pte. Ltd.": 5.405405405405405,
+        "Go Australia Domains Inc": 5.405405405405405,
+        "Go Canada Domains Inc": 2.7027027027027026,
+        "Go Daddy, LLC": 2.7027027027027026,
+        "NameSilo, LLC": 2.7027027027027026,
+        "Namecheap": 5.405405405405405,
+        "Spaceship, Inc.": 5.405405405405405,
+        "West263 International Limited": 5.405405405405405,
         "total": 100.0
     }
 }
