@@ -1,7 +1,7 @@
 {
     "counter": {
         "1API GmbH": 4,
-        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 4,
+        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 2,
         "Amazon Registrar, Inc.": 8,
         "Blue Razor Domains, LLC": 2,
         "Chengdu West Dimension Digital Technology Co., Ltd.": 2,
@@ -26,7 +26,7 @@
         "Name.com, Inc.": 6,
         "NameCheap, Inc.": 10,
         "NameSilo, LLC": 2,
-        "Namecheap": 22,
+        "Namecheap": 24,
         "Porkbun, LLC": 2,
         "Sav.com LLC": 6,
         "Spaceship, Inc.": 46,
@@ -41,7 +41,7 @@
     },
     "percentage": {
         "1API GmbH": 1.0471204188481675,
-        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 1.0471204188481675,
+        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 0.5235602094240838,
         "Amazon Registrar, Inc.": 2.094240837696335,
         "Blue Razor Domains, LLC": 0.5235602094240838,
         "Chengdu West Dimension Digital Technology Co., Ltd.": 0.5235602094240838,
@@ -66,7 +66,7 @@
         "Name.com, Inc.": 1.5706806282722514,
         "NameCheap, Inc.": 2.6178010471204187,
         "NameSilo, LLC": 0.5235602094240838,
-        "Namecheap": 5.7591623036649215,
+        "Namecheap": 6.282722513089006,
         "Porkbun, LLC": 0.5235602094240838,
         "Sav.com LLC": 1.5706806282722514,
         "Spaceship, Inc.": 12.041884816753926,
