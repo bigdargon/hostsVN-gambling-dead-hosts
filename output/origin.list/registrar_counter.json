@@ -1,28 +1,34 @@
 {
     "counter": {
-        "Domain International Services Limited": 6,
-        "Dynadot Inc": 6,
+        "Domain International Services Limited": 10,
+        "Dynadot Inc": 10,
+        "Dynadot LLC": 2,
         "Eranet International Limited": 4,
         "Go Australia Domains Inc": 4,
         "Go Canada Domains Inc": 2,
         "Go Montenegro Domains, LLC": 4,
         "GoDaddy.com, LLC": 8,
-        "Namecheap": 2,
+        "Name.com, Inc.": 2,
+        "Namecheap": 4,
         "Tucows Domains Inc.": 2,
+        "West263 International Limited": 2,
         "eName Technology Co., Ltd.": 2,
-        "total": 40
+        "total": 56
     },
     "percentage": {
-        "Domain International Services Limited": 15.0,
-        "Dynadot Inc": 15.0,
-        "Eranet International Limited": 10.0,
-        "Go Australia Domains Inc": 10.0,
-        "Go Canada Domains Inc": 5.0,
-        "Go Montenegro Domains, LLC": 10.0,
-        "GoDaddy.com, LLC": 20.0,
-        "Namecheap": 5.0,
-        "Tucows Domains Inc.": 5.0,
-        "eName Technology Co., Ltd.": 5.0,
+        "Domain International Services Limited": 17.857142857142858,
+        "Dynadot Inc": 17.857142857142858,
+        "Dynadot LLC": 3.5714285714285716,
+        "Eranet International Limited": 7.142857142857143,
+        "Go Australia Domains Inc": 7.142857142857143,
+        "Go Canada Domains Inc": 3.5714285714285716,
+        "Go Montenegro Domains, LLC": 7.142857142857143,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "Name.com, Inc.": 3.5714285714285716,
+        "Namecheap": 7.142857142857143,
+        "Tucows Domains Inc.": 3.5714285714285716,
+        "West263 International Limited": 3.5714285714285716,
+        "eName Technology Co., Ltd.": 3.5714285714285716,
         "total": 100.0
     }
 }
