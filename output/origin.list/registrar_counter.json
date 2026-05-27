@@ -1,28 +1,30 @@
 {
     "counter": {
-        "Dynadot Inc": 10,
+        "Dynadot Inc": 14,
         "Dynadot LLC": 2,
         "ERANET INTERNATIONAL LIMITED": 2,
-        "Gname.com Pte. Ltd.": 6,
+        "Edomains LLC": 2,
+        "Gname.com Pte. Ltd.": 10,
         "Go Australia Domains Inc": 4,
         "Go Canada Domains Inc": 2,
         "Go Montenegro Domains, LLC": 2,
-        "GoDaddy.com, LLC": 2,
+        "GoDaddy.com, LLC": 8,
         "Name.com, Inc": 4,
-        "Name.com, Inc.": 2,
-        "total": 36
+        "Name.com, Inc.": 4,
+        "total": 54
     },
     "percentage": {
-        "Dynadot Inc": 27.77777777777778,
-        "Dynadot LLC": 5.555555555555555,
-        "ERANET INTERNATIONAL LIMITED": 5.555555555555555,
-        "Gname.com Pte. Ltd.": 16.666666666666668,
-        "Go Australia Domains Inc": 11.11111111111111,
-        "Go Canada Domains Inc": 5.555555555555555,
-        "Go Montenegro Domains, LLC": 5.555555555555555,
-        "GoDaddy.com, LLC": 5.555555555555555,
-        "Name.com, Inc": 11.11111111111111,
-        "Name.com, Inc.": 5.555555555555555,
+        "Dynadot Inc": 25.925925925925927,
+        "Dynadot LLC": 3.7037037037037037,
+        "ERANET INTERNATIONAL LIMITED": 3.7037037037037037,
+        "Edomains LLC": 3.7037037037037037,
+        "Gname.com Pte. Ltd.": 18.51851851851852,
+        "Go Australia Domains Inc": 7.407407407407407,
+        "Go Canada Domains Inc": 3.7037037037037037,
+        "Go Montenegro Domains, LLC": 3.7037037037037037,
+        "GoDaddy.com, LLC": 14.814814814814815,
+        "Name.com, Inc": 7.407407407407407,
+        "Name.com, Inc.": 7.407407407407407,
         "total": 100.0
     }
 }
